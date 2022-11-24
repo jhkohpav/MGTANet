@@ -1,0 +1,12 @@
+# ninja log v5
+1	13213	1655124309874944755	/mnt/FocalsConv/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	5a387d4124418f53
+0	22341	1655124318995141077	/mnt/FocalsConv/CenterPoint/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	575e619423386d32
+1	13062	1656661634667988599	/mnt/FocalsConv/CenterPoint_long/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	249ba96446ee02a4
+1	22388	1656661643992787569	/mnt/FocalsConv/CenterPoint_long/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	112f3444522428e
+0	16129	1658131923959100551	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	b78f9bb51857ab11
+1	28172	1658131935995422009	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	246619e0bfcc10a2
+16	13197	1658839043801866613	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	b78f9bb51857ab11
+27	13543	1658850823701523291	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	b78f9bb51857ab11
+16	13520	1658854119935158134	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	b78f9bb51857ab11
+0	8376	1665476293052879368	/mnt/FocalsConv/MGTANet/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	bcb0859f506868df
+0	13607	1665476298280791442	/mnt/FocalsConv/MGTANet/det3d/ops/dcn/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	ebf464b582b853b7

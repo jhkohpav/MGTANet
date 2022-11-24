@@ -1,0 +1,17 @@
+# ninja log v5
+2	2195	1655124078269965822	/mnt/FocalsConv/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_kernel.o	255b1e2bbf66ea20
+1	13988	1655124090062218968	/mnt/FocalsConv/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms.o	7fa22db6071623cb
+0	14182	1655124090258223176	/mnt/FocalsConv/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_cpu.o	fd8fa161abb39d4b
+0	20557	1655124096626359900	/mnt/FocalsConv/CenterPoint/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_api.o	7d3f0a23fa16d61b
+6	2298	1656661676199464057	/mnt/FocalsConv/CenterPoint_long/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_kernel.o	525dfe360fed14bf
+4	14287	1656661688184428265	/mnt/FocalsConv/CenterPoint_long/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_cpu.o	725547f80f910651
+6	15117	1656661689016494592	/mnt/FocalsConv/CenterPoint_long/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms.o	68f50798bf254c8d
+5	21469	1656661695360997649	/mnt/FocalsConv/CenterPoint_long/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_api.o	7b0537b84fb7416c
+2	2522	1658130826526521053	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_kernel.o	51d36e3a314758d4
+0	16806	1658130840810827711	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_cpu.o	ba48f649837a5297
+1	17297	1658130841302838280	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms.o	9f7671a506ac7e7e
+1	25120	1658130849115006137	/mnt/FocalsConv/CenterPoint_offline/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_api.o	8f73767fd0907c7c
+1	1271	1665476251481577942	/mnt/FocalsConv/MGTANet/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_kernel.o	b9f04bc3a4b7461d
+0	8952	1665476259161448976	/mnt/FocalsConv/MGTANet/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_cpu.o	c0a859c59ced7fa7
+0	9248	1665476259457444004	/mnt/FocalsConv/MGTANet/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms.o	a2add05f9093096a
+1	12723	1665476262929385687	/mnt/FocalsConv/MGTANet/det3d/ops/iou3d_nms/build/temp.linux-x86_64-3.6/src/iou3d_nms_api.o	cc0ffd30b9f4b392
