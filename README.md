@@ -116,11 +116,11 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node
 If you find this project useful in your research, please consider citing:
 
 ```bash
-@article{koh2021joint,
-  title={Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds},
-  author={Koh, Junho and Kim, Jaekyum and Yoo, Jinhyuk and Kim, Yecheol and Choi, Jun Won},
-  journal={arXiv preprint arXiv:2112.07116},
-  year={2021}
+@article{mgtanet,
+  title={MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection},
+  author={Koh, Junho and Lee, Junhyung and Lee, Youngwoo and Kim, Jaekyum and Choi, Jun Won},
+  journal={arXiv preprint arXiv:2212.00442},
+  year={2022}
 }
 ```
 
