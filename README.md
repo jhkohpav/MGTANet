@@ -22,9 +22,9 @@ This is the official implementation of ***MGTANet***, a novel architecture for 3
 
 |  | mAP | NDS | download |
 | --- | --- | --- | --- |
-| CenterPoint | 58.82 | 66.35 | centerpoint_wgt.pth |
-| CenterPoint + SA-VFE (short-term) | 59.86 | 67.04 | centerpoint_sa_vfe_wgt.pth |
-| CenterPoint + MGTANet | 64.80 | 70.60 | mgtanet_wgt.pth |
+| CenterPoint | 58.82 | 66.35 | [centerpoint_wgt.pth](https://drive.google.com/file/d/1XdXRfxM5m5njY7f3owNgVZor2KOuJAwy/view?usp=share_link) |
+| CenterPoint + SA-VFE (short-term) | 59.86 | 67.04 | [centerpoint_sa_vfe_wgt.pth](https://drive.google.com/file/d/1dMllN39mBEFKv3Bed2bHcB0e0je6rJQz/view?usp=share_link) |
+| CenterPoint + MGTANet | 64.80 | 70.60 | [mgtanet_wgt.pth](https://drive.google.com/file/d/14cETjbyYwlljwRelDUEqhZY1-5BNyree/view?usp=share_link) |
 
 Visualization for comparing of CenterPoint and MGTANet
 
